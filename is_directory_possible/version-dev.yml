@@ -1,0 +1,7 @@
+ev-station:
+  location: seoul
+  weekday: true
+  weekend: false
+  holiday: true
+  parking: true
+  restroom: true
