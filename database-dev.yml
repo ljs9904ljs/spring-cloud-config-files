@@ -1,5 +1,9 @@
 spring:
   datasource:
-    uri: jdbc:mysql://localhost:3306/mydb
-    username: root
+    # jdbc:mysql://localhost:3306/mydb
+    uri: "{cipher}3eda41c00a84264b55f2fd9569fa20c9b1aac9372a5bb008f034c5e28aed7579983cf26c9be28f154eae8e620c5e5a5bb696b9fb86c953aac6e81b27b4cd8c37"
+
+    # root
+    username: "{cipher}e3081003be001897e6e009f7d25cf6045c320cba240eb90e1ca9595702a303c3"
+    
     password: root
